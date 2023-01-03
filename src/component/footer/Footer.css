@@ -1,0 +1,40 @@
+footer{
+    background: rgba(5, 47, 76, 0.6);
+    height: 50%;
+}
+
+.footer_logo{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    
+}
+.permalinks{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin: 0% auto 3rem;
+}
+.footer_socials{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 4rem;
+}
+.footer_socials a{
+    background-color: rgba(77,181,255,0.6);
+    padding: 0.8rem;
+    border-radius: 0.7rem;
+    display: flex;
+    border: 1p solid blue;
+}
+.footer_copyright{
+    
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
