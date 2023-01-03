@@ -41,7 +41,7 @@ const About = () => {
       
     
     <p>
-    A Professional Software developer with over a year of experience developing web applications with React.js, Node.js/Express.js and Mongodb.
+    A Professional Software Developer with over a year of experience developing web applications with React.js, Node.js/Express.js and Mongodb.
     </p>
     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
     
